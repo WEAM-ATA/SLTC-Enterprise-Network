@@ -236,7 +236,6 @@ SLTC-Enterprise-Network/
 │
 ├── Documentation/
 ├── PacketTracer/
-├── Configurations/
 ├── Images/
 ├── Screenshots/
 └── README.md
