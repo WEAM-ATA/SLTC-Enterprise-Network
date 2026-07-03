@@ -207,9 +207,9 @@ The following tests were successfully completed:
 
 ### DHCP & DNS Verification
 
-![DHCP](Screenshots/08-DHCP-Lease.png)
+![DHCP](Screenshots/DHCP-STLC.jpg)
 
-![DNS](Screenshots/09-DNS-Test.png)
+
 
 ---
 
@@ -218,6 +218,8 @@ The following tests were successfully completed:
 ![Website](Screenshots/10-Website.png)
 
 ---
+### MAIL 
+![Mail](Mail.jpg)
 
 ---
 
