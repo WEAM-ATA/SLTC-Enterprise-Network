@@ -243,8 +243,6 @@ SLTC-Enterprise-Network/
 ```
 
 ---
-## Packet Tracer lab
-![Packet-Tracer-Lab](Packet-tracer/STLC.pkt)
 
 ## Documentation
 
@@ -260,7 +258,7 @@ Detailed documentation includes:
 - ACL Matrix
 - Security Controls
 - Verification Results
-![Documentation-report]()
+  
 ---
 
 ## Future Improvements
