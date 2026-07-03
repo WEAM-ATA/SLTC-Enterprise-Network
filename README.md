@@ -26,7 +26,7 @@ The network infrastructure was designed to provide:
 
 > The complete network topology is available in the **Diagrams** folder.
 
-![Network Topology](Diagrams/Network_Topology.png)
+![Network Topology](Images/Network_Topology.png)
 
 ---
 
@@ -184,7 +184,7 @@ SLTC-Enterprise-Network/
 ├── Documentation/
 ├── PacketTracer/
 ├── Configurations/
-├── Diagrams/
+├── Images/
 ├── Screenshots/
 └── README.md
 ```
