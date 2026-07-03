@@ -229,6 +229,17 @@ The following tests were successfully completed:
 ### port security 
 [Port-Security](Port-security.jpg)
 
+---
+## Packet Tracer File
+
+The complete Cisco Packet Tracer project is available in the repository.
+
+📥 **Download the Packet Tracer file:**
+
+- [SLTC_Enterprise_Network.pkt](PacketTracer/SLTC.pkt)
+
+> **Note:** This project was developed and tested using Cisco Packet Tracer 9.x. Opening it with an older version may result in compatibility issues.
+
 ## Project Structure
 
 ```
