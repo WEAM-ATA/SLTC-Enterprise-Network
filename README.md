@@ -32,11 +32,7 @@ The network infrastructure was designed to provide:
 
 ## Network Architecture
 
-```
-
-```
-
----
+![Network-architecture](Images/Network-architecture.png)
 
 ## Branches
 
