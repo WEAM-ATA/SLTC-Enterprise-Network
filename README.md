@@ -24,9 +24,9 @@ The network infrastructure was designed to provide:
 
 ## Network Topology
 
-> The complete network topology is available in the **Diagrams** folder.
 
-![Network Topology](Screenshots/Network_Topology.jpg)
+
+![Network Topology](Screenshots/Network-Topology.jpg)
 
 ---
 
