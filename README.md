@@ -236,7 +236,7 @@ The complete Cisco Packet Tracer project is available in the repository.
 
 📥 **Download the Packet Tracer file:**
 
-- [SLTC_Enterprise_Network.pkt](Packet-traces/SLTC.pkt)
+- [SLTC_Enterprise_Network.pkt](Packet-traces/STLC.pkt)
 
 > **Note:** This project was developed and tested using Cisco Packet Tracer 9.x. Opening it with an older version may result in compatibility issues.
 
