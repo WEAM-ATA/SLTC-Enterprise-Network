@@ -195,7 +195,7 @@ The following tests were successfully completed:
 
 ### NAT Translation
 
-![NAT](Screenshots/06-NAT-Translations.png)
+![NAT](Screenshots/NAT.jpg)
 
 ---
 
@@ -215,13 +215,19 @@ The following tests were successfully completed:
 
 ### Company Website
 
-![Website](Screenshots/10-Website.png)
+![Website](Screenshots/company-website.jpg)
+
+---
+### SNMP 
+![SNMP](SNMP.jpg)
 
 ---
 ### MAIL 
 ![Mail](Mail.jpg)
 
 ---
+### port security 
+[Port-Security](Port-security.jpg)
 
 ## Project Structure
 
