@@ -32,7 +32,7 @@ The network infrastructure was designed to provide:
 
 ## Network Architecture
 
-![Network-architecture](Images/Network-architecture.png)
+![Network-architecture](Images/Network-Architecture.png)
 
 ## Branches
 
@@ -173,6 +173,51 @@ The following tests were successfully completed:
 - ACL Enforcement
 - NAT Translation
 - HSRP Failover
+
+## Project Screenshots
+### OSPF Neighbor Verification
+
+![OSPF](Screenshots/03-OSPF-Neighbors.png)
+
+---
+
+### Routing Table
+
+![Routing Table](Screenshots/04-Routing-Table.png)
+
+---
+
+### HSRP Verification
+
+![HSRP](Screenshots/05-HSRP-Status.png)
+
+---
+
+### NAT Translation
+
+![NAT](Screenshots/06-NAT-Translations.png)
+
+---
+
+### ACL Verification
+
+![ACL](Screenshots/07-ACL-Verification.png)
+
+---
+
+### DHCP & DNS Verification
+
+![DHCP](Screenshots/08-DHCP-Lease.png)
+
+![DNS](Screenshots/09-DNS-Test.png)
+
+---
+
+### Company Website
+
+![Website](Screenshots/10-Website.png)
+
+---
 
 ---
 
