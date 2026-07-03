@@ -219,11 +219,11 @@ The following tests were successfully completed:
 
 ---
 ### SNMP 
-![SNMP](SNMP.jpg)
+![SNMP](Screenshots/SNMP.jpg)
 
 ---
 ### MAIL 
-![Mail](Mail.jpg)
+![Mail](Screenshots/Mail.jpg)
 
 ---
 ### port security 
