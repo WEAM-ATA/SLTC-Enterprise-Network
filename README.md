@@ -177,19 +177,19 @@ The following tests were successfully completed:
 ## Project Screenshots
 ### OSPF Neighbor Verification
 
-![OSPF](Screenshots/03-OSPF-Neighbors.png)
+![OSPF](Screenshots/OSPFNIE.jpg)
 
 ---
 
 ### Routing Table
 
-![Routing Table](Screenshots/04-Routing-Table.png)
+![Routing Table](Screenshots/R-Khartoum.jpg)
 
 ---
 
 ### HSRP Verification
 
-![HSRP](Screenshots/05-HSRP-Status.png)
+![HSRP](Screenshots/LACP.jpg)
 
 ---
 
@@ -197,11 +197,6 @@ The following tests were successfully completed:
 
 ![NAT](Screenshots/NAT.jpg)
 
----
-
-### ACL Verification
-
-![ACL](Screenshots/07-ACL-Verification.png)
 
 ---
 
