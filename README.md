@@ -220,9 +220,6 @@ The following tests were successfully completed:
 ### MAIL 
 ![Mail](Screenshots/Mail.jpg)
 
----
-### port security 
-[Port-Security](Port-security.jpg)
 
 ---
 ## Packet Tracer File
